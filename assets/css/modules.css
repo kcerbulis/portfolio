@@ -464,19 +464,19 @@
 
 		#main > section.one {
 			background-color: #81918E;
-			background-image: url("../../images/banner.jpg");
+			background-image: url("../../images/dude.jpg");
 		}
 
 		#main > section.two {
-			background-color: #f5fafa;
+			background-color: #2db0d7;
 		}
 
 		#main > section.three {
-			background-color: #ecf1f1;
+			background-color: #65c3df;
 		}
 
 		#main > section.four {
-			background-color: #e8edec;
+			background-color: #2db0d7;
 		}
 
 /* Wide */
