@@ -464,7 +464,7 @@
 
 		#main > section.one {
 			background-color: #81918E;
-			background-image: url("../../images/dude.jpg");
+			background-image: url("../../images/natureGif.gif");
 		}
 
 		#main > section.two {
@@ -595,9 +595,9 @@
 
 /* Narrower */
 
-  #headerToggle {
+  /* #headerToggle {
   display: none;
-  }
+  } */
 
 
 
